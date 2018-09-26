@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HastaVeriTabani</string>
+    <string name="hasta_listesi">Hasta Listesi</string>
+    <string name="ekle">+</string>
+    <string name="hasta_ekle">Hasta Ekle</string>
+    <string name="ad">Adı</string>
+    <string name="hasta_ad">Hasta Adı</string>
+    <string name="hasta_sil">Hasta Sil</string>
+    <string name="hasta_d_zenle">Hasta Düzenle</string>
+</resources>
